@@ -10,7 +10,7 @@
 
 1. 先在Chrome浏览器用**账号密码**登录一次学堂在线，并在浏览器弹出的窗口中选择记住密码
 2. 找到Chrome浏览器的User Data本地路径，例如：C:\Users\xxx\AppData\Local\Google\Chrome\User Data
-3. 更改爬虫中的chrome_locpath变量为步骤2得到的路径
+3. 更改爬虫中的`chrome_locpath`变量为步骤2得到的路径
 
 ## 原理及过程
 
